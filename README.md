@@ -1,6 +1,6 @@
 ## Environment Setup
 
-1. Create a local copy of the project:`git clone `
+1. Create a local copy of the project:`git clone https://github.com/beliaevdm/capslock.git`
 2. Install NodeJS [Download](https://nodejs.org/en)
 3. Install project dependencies:`npm i`
 4. Install browsers: `npx playwright install`
